@@ -7,6 +7,7 @@
  */
 public class Responder
 {
+    
     /**
      * Construct a Responder - nothing to do
      */
